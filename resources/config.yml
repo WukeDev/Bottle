@@ -1,0 +1,5 @@
+# Item ID of bottle item, default experience bottle
+bottleID: 384
+
+# Minimum level required to bottle
+minimumLevel: 0
